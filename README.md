@@ -1,4 +1,4 @@
-I took Operating Systems during me Computer Science Degree.
+I took Operating Systems Course during me Computer Science Degree.
 
 You can find more information about the course here:
 
