@@ -1,5 +1,2 @@
-I took Operating Systems Course during me Computer Science Degree.
-
-You can find more information about the course here:
-
+You can find more information about the Operating Systems course here:  
 https://www.csd.uoc.gr/~hy345/index_en.html
