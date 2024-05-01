@@ -1,5 +1,4 @@
-                               Linux Shell in C Programming Language
-                            Georgios Gerasimos Leventopoulos   csd4152  
+                               Linux Shell in C Programming Language  
 
 Are working:
 -cd command and exit command are working well
